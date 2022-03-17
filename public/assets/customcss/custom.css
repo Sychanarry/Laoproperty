@@ -1,0 +1,56 @@
+.fontfamily{
+    font-family: phetsarath OT;
+   }
+   /* .card-footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+   }
+   .card-header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+ } */
+ .fontweight{
+     font-size:large;
+ }
+
+input[type="file"]{
+    display: none;
+}
+.label{
+    display: block;
+    position: relative;
+    background-color: #025bee;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    width: 300px;
+    padding: 18px 0;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.p{
+text-align: center;
+    margin: 20px 0 30px 0;
+}
+#images{
+    width: 20%;
+     position: relative;
+    margin: auto;
+    display: flex;
+    gap:0;
+    flex-wrap: wrap;
+}
+figure{
+    width: 20%;
+}
+/* Delete name and type_file of image */
+  figcaption{
+    font-size: 0;
+    margin-top: 0;
+}

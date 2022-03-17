@@ -1,0 +1,43 @@
+ການຕິດຕັ້ງ Imagick Extension
+ລິ້ງວີທີ່ການຕິດຕັ້ງ https://shouts.dev/how-to-install-imagemagick-php-ext-on-windows
+ການຕິດຕັ້ງ imagick extension ແມ່ນເພື່ອໃຫ້ເຮົາສາມາດ ເຮັດ Watermark ໃນ Laravel
+
+ php version 		 Must be 7.4 up
+Architecture 		x64
+2.Dowload file
+http://pecl.php.net/package/imagick
+Click DLL
+Select your php version and architecture
+and Download file.
+3.Downloade required Binary
+https://windows.php.net/downloads/pecl/deps/
+select your what your architecture is
+ຫຼັງຈາກທີ່ດາວໂຫຼດຟາຍແລ້ວໃຫ້ເຂົ້າໄປທີີ
+After downloading all files:
+
+Extract php_imagick.dll file from php_imagick-….zip, and save it to the ext directory of your PHP installation. Example: xampp’s PHP location C:\xampp\php\ext.
+Extract the DLL files from ImageMagick-….zip located in the bin folder that start with CORE_RL and IM_MOD_RL, and save them to the PHP root directory (where you have php.exe), or to a directory in your PATH variable
+Add this line to your php.ini file: extension=php_imagick.dll
+Restart the Apache/NGINX Windows service.
+
+    magick -version
+
+    Now check the PHP info and search for imagick. If everything is correct, you’ll see these info:
+
+<?php
+
+// Create an Imagick object
+$image = new Imagick();
+
+// Use newImage function to create new image
+$image->newImage(650, 400, '#FF0000');
+
+// Set the image format
+$image->setImageFormat('png');
+
+header('Content-type: image/png');
+
+// Display the output image
+echo $image;
+?>
+

@@ -1,0 +1,29 @@
+1.ເອົາລາຍນ້ຳໃສ່ເວລາບັນທຶກຮູບ
+2.ຟອມແກ້ໄຂ                                                       Yes
+ແລະ ລົບ.
+3.ຄົ້ນຫາ                                                           Yes
+4.ແກ້ໄຂ template ພວກ script and css                              Yes
+5.ເອົາກັອບຮູບອອກ                                                   Yes
+6.ເອົາ grid filter left ມາໃສ່ໃນໜ້າ sale_properties                  Yes
+7.ແປງຂະໜາດຮູບກ່ອນເວລາສິບັນທຶກ                                        Yes
+8.ຂຽນ API
+9.ເອົາຮູບເຮືອນມາໃສ່                                                     Yes
+10.ຫົວເວັບປ່ຽນເປັນ Lao_property                                         Yes
+11.ເວລາກົດໜ້າຊື້ຂາຍໃຫ້ມັນໄປຕາມເງືອນໄຂ                                      YEs
+12.ເລືອກແຂວງໄດ້ເມືອງ
+13.ແຜນທີ     ເຮັດແລ້ວແຕ່ບໍ່ມີ                                          API_KEY
+14 youtubeຄັນບໍ່ມີສະແດງ                                                 Yes
+15.register login facebook and Google                               (ບໍ່ທັນສົມບູນ)
+16.keyword search                                                       Yes
+17.ເກັບໄອພີໜ້າ  index                                                      Yes
+18.ລິ້ງໃສ່ຮູບ                                                               Yes
+19.add view field                                                         Yes
+20.add view ໃນໜ້າ sale_properties_detail                                   yes
+21.ກວດເບິ່ງວ່າ Support ໂທລະສັບຫຼືບໍ່?(Web and Dashboard)
+22.Middleware (For Addmin)                                              Yes
+23.ເວລາລັອກອິນເຂົ້າລະບົບໃຫ້ປຸ່ມລັອກອິນຫາຍ ແລະ ປຸ່ມ ສິ່ງທີ່ມັກຈະສະແດງ ແລະ ປຸ່ມອອກຈາກລະບົບ
+ແລະ ຜູ້ທີ່ກົດເຂົ້າມາຈະສາມາດກົດຫົວໃຈໄດ້
+24.ແປງສະກຸນເງິນທັງໜ້າ  Admin ແລະ ໜ້າເວັບ
+25.ເຮັດໜ້າລວມທັງໝົດ
+
+
